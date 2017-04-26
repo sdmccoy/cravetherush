@@ -1,0 +1,39 @@
+* {
+  border: 1px solid black;
+}
+
+.clear-float{
+  clear: both;
+}
+
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.main-title {
+  float: left;
+}
+
+.small-logo, h1 {
+  float: left;
+}
+
+ul {
+}
+
+li {
+  list-style: none;
+  display: inline;
+}
+
+.sports-row-1 {
+  /*position: relative;*/
+}
+
+.features {
+  width: 200px;
+  margin: auto 10px;
+  float: left;
+  /*position: absolute;*/
+}
