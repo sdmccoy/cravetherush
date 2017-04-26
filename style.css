@@ -1,0 +1,18 @@
+* {
+  border: 1px solid black;
+}
+
+.clear-float{
+  clear: both;
+}
+
+body {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.features {
+  width: 22.914%;
+  margin: auto 1.041%;
+  float: left;
+}
