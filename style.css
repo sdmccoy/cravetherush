@@ -7,7 +7,7 @@
 }
 
 body {
-  width: 960px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -50,6 +50,13 @@ li {
 
 .intro {
   text-align: center;
+  width: 100%;
+  height: auto;
+}
+
+.top-photo {
+  width: 100%;
+  height: auto;
 }
 
 .sports-row-1 {
