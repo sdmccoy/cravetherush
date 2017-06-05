@@ -1,0 +1,32 @@
+{
+  "name": "cravetherush",
+  "version": "1.0.0",
+  "description": "A site to inspire others to embrace natures powers and respect her in return. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdmccoy/cravetherush.git"
+  },
+  "keywords": [
+    "extreme",
+    "sports",
+    "adventure",
+    "outdoors",
+    "climb",
+    "moutain",
+    "bike",
+    "kiteboard"
+  ],
+  "author": "Scott McCoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdmccoy/cravetherush/issues"
+  },
+  "homepage": "https://github.com/sdmccoy/cravetherush#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
